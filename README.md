@@ -9,6 +9,7 @@
 `129条伤寒论` · `23篇金匮` · `72篇黄帝内经` · `神农本草经374种本草（上137/中110/下127）` · `1257 例结构化医案 + 243 例叙事医案` · `2,452页讲义` · `3.5M字精萃`
 
 [![GitHub Stars](https://img.shields.io/github/stars/jangviktor-web/nihaixia?style=for-the-badge&color=yellow&label=Stars)](https://github.com/jangviktor-web/nihaixia/stargazers)
+[![ClawHub](https://img.shields.io/badge/腾讯云skillhub-安装倪海厦SKILL-green?style=for-the-badge)](https://skillhub.cn/skills/user_ff4d9420/nihaixia-pro)
 [![版本](https://img.shields.io/badge/版本-v2.3.1-blue?style=for-the-badge)](https://github.com/jangviktor-web/nihaixia/releases)
 [![中医思维蒸馏器](https://img.shields.io/badge/中医思维蒸馏器-v4.4.0-red?style=for-the-badge)](https://github.com/jangviktor-web/tcm-distiller)
 [![License](https://img.shields.io/badge/协议-MulanPSL--2.0-green?style=for-the-badge)](LICENSE)
@@ -32,17 +33,6 @@
 ---
 
 ## 快速安装
-
-<details open>
-<summary><b> ClawHub（推荐）已更新至V2.2.0版本可复制下面文字到agent更新，V2.3.1 系统审核中 </b></summary>
-
-```bash
-
-openclaw skills install @jangviktor-web/nihaixia
-npx skills add https://clawhub.ai/jangviktor-web/skills/nihaixia
-
-```
-</details>
 
 <details>
 <summary><b>SkillHub（腾讯云·推荐）已更新至V2.3.1版本可复制下面文字到agent更新</b></summary>
@@ -238,6 +228,7 @@ cp -r nihaixia/ ~/.claude/skills/nihaixia/
 
 [![Download APK](https://img.shields.io/badge/中医思维蒸馏器-v4.4.0-red?style=for-the-badge&logo=Skill)](https://github.com/jangviktor-web/tcm-distiller)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/jangviktor-web/tcm-distiller)
+[![ClawHub](https://img.shields.io/badge/腾讯云skillhub-中医思维蒸馏器SKILL-green?style=flat-square)](https://skillhub.cn/skills/user_ff4d9420/tcm-distiller)
 
 | 人物 | 流派 | 成果 |
 |---|---|---|
@@ -259,7 +250,6 @@ cp -r nihaixia/ ~/.claude/skills/nihaixia/
 与倪海厦skill互补：倪海厦覆盖全科教学（849医案），李可专注急危重症实战（附子最大750g）。
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/jangviktor-web/likeskill)
-[![ClawHub](https://img.shields.io/badge/ClawHub-install%20like-green?style=flat-square)](https://clawhub.ai/jangviktor-web/skills/like)
 
 | 破格救心汤 | 假证识别25种 | 圆运动理论 | 经方剂量体系 |
 |:---:|:---:|:---:|:---:|
@@ -280,7 +270,7 @@ cp -r nihaixia/ ~/.claude/skills/nihaixia/
 与倪海厦skill互补：倪海厦覆盖全科教学（849医案），胡希恕是经方传道第一人，是对《伤寒论》辨证体系最清晰的解读。
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/jangviktor-web/huxishu)
-[![ClawHub](https://img.shields.io/badge/ClawHub-install%20huxishu-green?style=flat-square)](https://clawhub.ai/jangviktor-web/skills/huxishu)
+[![ClawHub](https://img.shields.io/badge/腾讯云skillhub-安装胡希恕SKILL-green?style=flat-square)](https://skillhub.cn/skills/user_ff4d9420/huxisu)
 
 </div>
 
@@ -301,10 +291,34 @@ cp -r nihaixia/ ~/.claude/skills/nihaixia/
 
 **互补关系**：倪海厦修水龙头（温阳化湿治本），吴鞠通扫积水（清湿护津治标）——一纵一横，急性期从吴、缓解期从倪，合观乃得中医外感病全貌。
 
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/jangviktor-web/wujutong)
-[![ClawHub](https://img.shields.io/badge/ClawHub-install%20wujutong-green?style=flat-square)](https://clawhub.ai/jangviktor-web/skills/wujutong)
+[![ClawHub](https://img.shields.io/badge/腾讯云skillhub-install%20吴鞠通SKILL-green?style=flat-square)](https://skillhub.cn/skills/user_ff4d9420/wujutong)
 
 </div>
+
+---
+
+<div align="center">
+
+### [曾仕强 AI Agent Skill · 传统文化AI](https://github.com/jangviktor-web/zeng-shiqiang)
+将**曾仕强**（1934–2018）的中国式管理、易经义理、道德经智慧、人际相处、领导之道，蒸馏为可激活的 Agent Skill，使 AI 能以曾仕强的视角回应管理、处世、解读易理、修身齐家。
+### 曾氏管理修身七标准
+
+**修己**：先把自己管好，再管别人
+**安人**：让别人安心、放心、安身
+**圆通**：持经达变，圆通不是圆滑
+**持经**：守根本原则，不随波逐流
+**达变**：因时因地因人，灵活变通
+**合理**：追求合理，不是追求完美
+**和谐**：合理则和谐，不是和稀泥
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/jangviktor-web/zeng-shiqiang)
+[![ClawHub](https://img.shields.io/badge/腾讯云skillhub-install%20曾仕强SKILL-green?style=flat-square)](https://skillhub.cn/skills/user_ff4d9420/zengshiqiang)
+
+</div>
+
 
 
 ## 数据来源
